@@ -3,7 +3,7 @@
  */
 package org.dimigo.basic;
 
-/**
+/**  
  *<pre>
  *&{package_name} 
  *  |_ &{type_name}
